@@ -23,7 +23,7 @@ Voici quelques règles importantes à suivre pour garantir une expérience agré
 **RÈGLES DU CHAT**
 
 * Tous les joueurs doivent se **respecter** entre eux. Aucune **haine**, **violence** ou **discrimination** ne sera tolérée.
-* Interdiction de **flood** _(comme çaaaaaaaaaaa)_ et de **spam** _(envoi continu et massif de plusieurs messages)_. Les messages en **majuscules** _(COMME CA LA)_ seront également sanctionnés.
+* Interdiction de **flood** _(comme çaaaaaaaaaaa)_ et de **spam** _(envoi continu et massif de plusieurs messages)_. Les messages en **majuscules** _(COMME ÇA LA)_ seront également sanctionnés.
 * Les **publicités** du style "**Rejoignez ma team**" ou "**Venez à mon shop**" sont interdites, au même titre que les **demandes de dons**. Pour vos publicités, merci de vous diriger vers les salons appropriés sur le **serveur Discord** afin de promouvoir votre shop ou votre team sans **polluer** le chat ingame.
 
 **RÈGLES MINECRAFT**
